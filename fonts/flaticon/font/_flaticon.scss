@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 20/03/2019 02:18
+    Creation date: 21/07/2020 06:35
     */
 
     @font-face {
@@ -37,18 +37,42 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+    .flaticon-photo:before { content: "\f100"; }
+.flaticon-coding:before { content: "\f101"; }
+.flaticon-internet:before { content: "\f102"; }
+.flaticon-mobile-app:before { content: "\f103"; }
+.flaticon-smartphone:before { content: "\f104"; }
+.flaticon-app-development:before { content: "\f105"; }
+.flaticon-branding:before { content: "\f106"; }
+.flaticon-branding-1:before { content: "\f107"; }
+.flaticon-logo:before { content: "\f108"; }
+.flaticon-web-design:before { content: "\f109"; }
+.flaticon-ui:before { content: "\f10a"; }
+.flaticon-calendar:before { content: "\f10b"; }
+.flaticon-immigration:before { content: "\f10c"; }
+.flaticon-graduation-cap:before { content: "\f10d"; }
+.flaticon-book:before { content: "\f10e"; }
+.flaticon-graduated:before { content: "\f10f"; }
+.flaticon-university:before { content: "\f110"; }
+.flaticon-school:before { content: "\f111"; }
+.flaticon-study:before { content: "\f112"; }
     
-    $font-Flaticon-ideas: "\f100";
-    $font-Flaticon-flasks: "\f101";
-    $font-Flaticon-analysis: "\f102";
-    $font-Flaticon-ux-design: "\f103";
-    $font-Flaticon-web-design: "\f104";
-    $font-Flaticon-idea: "\f105";
-    $font-Flaticon-innovation: "\f106";
+    $font-Flaticon-photo: "\f100";
+    $font-Flaticon-coding: "\f101";
+    $font-Flaticon-internet: "\f102";
+    $font-Flaticon-mobile-app: "\f103";
+    $font-Flaticon-smartphone: "\f104";
+    $font-Flaticon-app-development: "\f105";
+    $font-Flaticon-branding: "\f106";
+    $font-Flaticon-branding-1: "\f107";
+    $font-Flaticon-logo: "\f108";
+    $font-Flaticon-web-design: "\f109";
+    $font-Flaticon-ui: "\f10a";
+    $font-Flaticon-calendar: "\f10b";
+    $font-Flaticon-immigration: "\f10c";
+    $font-Flaticon-graduation-cap: "\f10d";
+    $font-Flaticon-book: "\f10e";
+    $font-Flaticon-graduated: "\f10f";
+    $font-Flaticon-university: "\f110";
+    $font-Flaticon-school: "\f111";
+    $font-Flaticon-study: "\f112";

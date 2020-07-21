@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
@@ -36,10 +36,23 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+
+.flaticon-photo:before { content: "\f100"; }
+.flaticon-coding:before { content: "\f101"; }
+.flaticon-internet:before { content: "\f102"; }
+.flaticon-mobile-app:before { content: "\f103"; }
+.flaticon-smartphone:before { content: "\f104"; }
+.flaticon-app-development:before { content: "\f105"; }
+.flaticon-branding:before { content: "\f106"; }
+.flaticon-branding-1:before { content: "\f107"; }
+.flaticon-logo:before { content: "\f108"; }
+.flaticon-web-design:before { content: "\f109"; }
+.flaticon-ui:before { content: "\f10a"; }
+.flaticon-calendar:before { content: "\f10b"; }
+.flaticon-immigration:before { content: "\f10c"; }
+.flaticon-graduation-cap:before { content: "\f10d"; }
+.flaticon-book:before { content: "\f10e"; }
+.flaticon-graduated:before { content: "\f10f"; }
+.flaticon-university:before { content: "\f110"; }
+.flaticon-school:before { content: "\f111"; }
+.flaticon-study:before { content: "\f112"; }
