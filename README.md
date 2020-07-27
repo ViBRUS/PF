@@ -1,2 +1,2 @@
 # PF
-My Portfolio site hhosted on GitHub.
+My Portfolio site hosted on GitHub.
