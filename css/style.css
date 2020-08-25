@@ -9773,3 +9773,6 @@ textarea.form-control {
         transform: rotate(-360deg) translateX(12px);
       }
     }
+carimg {
+  height: 500px;
+}
